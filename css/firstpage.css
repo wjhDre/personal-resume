@@ -1,0 +1,55 @@
+h3{
+	text-align: center;
+	font-family:Comic Sans MS;
+	font-weight:bold;
+	color:#fff;
+	margin-top:10%;
+}
+h1{
+	text-align: center;
+	color:#fff;
+	margin-top:5%;
+}
+hr{
+	width:60%;
+	height:2px;
+	background:#fff;
+	margin:10px auto;
+}
+#resume{
+	width: 40%;
+	display:block;
+	margin:10% auto;
+}
+.web{
+	text-align:center;
+	color:#fff;
+	font-size:2rem;
+	font-family:黑体;
+	margin-top:15%;
+}
+.dream{
+	text-align:center;
+	color:#fff;
+	font-size:2rem;
+	font-family:楷体;
+	margin-top:8%;	
+}
+#box{
+	position:relative;
+	height: 8%;
+}
+#kownMore{
+	width: 60%;
+	height: 100%;
+	display:block;
+	margin:10% auto;
+}
+a{
+	position:absolute;
+	display:block;
+	top:30%;
+	left:40%;
+	text-decoration:none;
+	color:#000;
+}

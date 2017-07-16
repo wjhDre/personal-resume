@@ -1,0 +1,51 @@
+#experience{
+	width: 60%;
+	height:50px;
+	border:2px dashed skyblue;
+	margin:60px auto;
+	margin-bottom:0;
+	color:#fff;
+	font-family:黑体;
+	font-size:25px;
+	text-align: center;
+	line-height:50px;
+}
+.left{
+	display:inline-block;
+	width: 40%;
+	margin-top:50px;
+	margin-left:40px;
+	margin-right:10px;
+	vertical-align:top;
+	color:#fff;
+}
+.right{
+	display:inline-block;
+	margin-left:20px;
+	margin-top:50px;
+	color:#fff;
+}
+#liner{
+	width: 10px;
+	height:0;
+	background:lightgreen;
+	/* border:5px lightgreen solid; */
+	border-radius:5px;
+	position:absolute;
+	top:140px;
+	right:152px;
+	/* animation:liner 4s linear both; */
+}
+@keyframes liner{
+	0%{height: 0;}
+	50%{height: 200px;}
+	100%{height: 400px;}
+}
+.circle{
+	width: 0;
+	border:10px tomato solid;
+	border-radius:10px;
+	display:inline-block;
+	position:relative;
+	z-index:2;
+}

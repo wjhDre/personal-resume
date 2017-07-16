@@ -1,0 +1,35 @@
+#bg3{
+	width:90%;
+	height: 70%;
+	position:absolute;
+	top:100px;
+	left:20px;
+	/* z-index:0; */
+}
+#information{
+	border:3px dashed #808000;
+	font-size:25px;
+	color:#808000;
+	position:absolute;
+	top:150px;
+	left:60px;
+	font-family:黑体;
+}
+ul{
+	list-style:none;
+	position:absolute;
+	top:190px;
+	left:20px;
+}
+ul>li{
+	color:#808000;
+	margin-top:20px;
+	font-family:黑体;
+}
+#cmy1{
+	width:25%;
+	position:absolute;
+	top:150px;
+	right:60px;
+	box-shadow:-5px 5px 10px #000;
+}
